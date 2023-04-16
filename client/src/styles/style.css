@@ -1,0 +1,26 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.page {
+    background-color: rgb(255, 255, 255);
+}
+
+.sidebar_col {
+    background-color: gray;
+}
+
+/* .home_page {
+    background-color: bisque;
+}
+
+.about_page {
+    background-color:blanchedalmond;
+}
+
+.demo_page {
+    background-color:aquamarine;
+} */

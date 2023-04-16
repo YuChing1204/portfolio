@@ -1,0 +1,22 @@
+.sidebar {
+    position: fixed;
+    color: white;
+}
+
+.content {
+    align-items: center;
+    justify-content: center;
+}
+
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+li .active {
+    color: black;
+    text-decoration: none;
+}
+
+
